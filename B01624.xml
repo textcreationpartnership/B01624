@@ -1,0 +1,3167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A supplement to the new version of Psalms by N. Tate and N. Brady. Containing, I. The usual hymns, creed, Lord's Prayer, Ten Commandments, all set to their proper tunes, with additional hymns for the holy sacrament, &amp;c. II. Select psalms in particular measures to supply the whole variety of metres that are in the old version, with duplicates to most of them, and Gloria Patris, and the proper tune for each metre. III. A set of tunes for the foresaid new version of the Psalms.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 38 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01624</idno>
+            <idno type="STC">Wing B2623B</idno>
+            <idno type="STC">ESTC R172927</idno>
+            <idno type="EEBO-CITATION">53981605</idno>
+            <idno type="OCLC">ocm 53981605</idno>
+            <idno type="VID">180117</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01624)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180117)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2816:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A supplement to the new version of Psalms by N. Tate and N. Brady. Containing, I. The usual hymns, creed, Lord's Prayer, Ten Commandments, all set to their proper tunes, with additional hymns for the holy sacrament, &amp;c. II. Select psalms in particular measures to supply the whole variety of metres that are in the old version, with duplicates to most of them, and Gloria Patris, and the proper tune for each metre. III. A set of tunes for the foresaid new version of the Psalms.</title>
+                  <author>Tate, Nahum, 1652-1715.</author>
+                  <author>Brady, Nicholas, 1659-1726.</author>
+               </titleStmt>
+               <extent>69, [3] p. : music.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Heptinstall, and sold by D. Brown, ..., J. Wild, ... and most booksellers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement for the Supplement precedes title page.</note>
+                  <note>Includes index.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+                  <note>The usual hymns &amp;c. to the proper tunes -- Psalms done in particular measures to make up the whole variety of metres that are in the old version, with their proper tunes -- The usual tunes for Psalms of common measure -- The tunes for Psalms of particular measures most usually sung.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms. --  English --  Musical settings --  17th century.</term>
+               <term>Psalms (Music) --  17th century.</term>
+               <term>Hymns, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:180117:1"/>
+            <head>Advertiſement.</head>
+            <p>
+               <hi>A</hi> SUPPLEMENT <hi>to the New Verſion of</hi> Pſalms <hi>by</hi> N. Tate <hi>and</hi> N. Brady, <hi>containing,</hi>
+            </p>
+            <p n="1">1. THE uſual Hymns, Creed, Lord's Prayer, Ten Commandments, ſet to their proper Tunes; with additio<g ref="char:EOLunhyphen"/>nal Hymns for the Holy Sacrament, Fe<g ref="char:EOLhyphen"/>ſtivals, <hi>&amp;c.</hi>
+            </p>
+            <p n="2">2ly. Select Pſalms done in <hi>particular Meaſures,</hi> to make up the whole variety of Metres that are in the old Verſion, with Duplicates to moſt of them, and <hi>Gloria Patri</hi>'s with the Tunes.</p>
+            <p n="3">3ly. A Set of Tunes for all the New Verſion of Pſalms.</p>
+            <p>LONDON:</p>
+            <p>
+               <hi>Printed and Sold at Stationers Hall near</hi> Ludgate. D. Brown <hi>at the</hi> Bible <hi>with<g ref="char:EOLhyphen"/>out</hi> Temple-Bar, J. Wilds <hi>at the</hi> E<g ref="char:EOLhyphen"/>lephant, Charing Croſs, <hi>and other Bookſellers.</hi>
+            </p>
+            <p>
+               <g ref="char:dtristar">*⁎*</g> This Supplement to be had ſingly or bound with the New Verſion. Price in Sheets 6 <hi>d.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:180117:1" rendition="simple:additions"/>
+            <p>A SUPPLEMENT TO THE New Verſion OF PSALMS BY <hi>N. Tate</hi> and <hi>N. Brady;</hi> CONTAINING, I. The uſual <hi>Hymns, Creed, Lord's Prayer, Ten Commandments,</hi> all ſet to their proper Tunes; with Additional <hi>Hymns</hi> for the <hi>Holy Sacra<g ref="char:EOLhyphen"/>ment,</hi> &amp;c. II. Select <hi>Pſalms</hi> in particular Meaſures to ſup<g ref="char:EOLhyphen"/>ply the whole <hi>Variety</hi> of Metres that are in the <hi>Old Verſion,</hi> with Duplicates to moſt of them, and <hi>Gloria Patri's;</hi> and the Proper Tune for each Metre. III. A Sett of Tunes for the foreſaid <hi>New Ver<g ref="char:EOLhyphen"/>ſion</hi> of the <hi>Pſalms.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Heptinſtall,</hi> and Sold at <hi>Stationers Hall</hi> near <hi>Ludgate;</hi> by <hi>D. Brown</hi> at the <hi>Bible</hi> without <hi>Temple-Barr, J. Wild</hi> at the <hi>Elephant</hi> at <hi>Charing-Croſs,</hi> and moſt Bookſellers, 1700.</p>
+            <p>Price in Sheets 6 <hi>d.</hi> to be ſtitch'd ſingly, or to bind up with the foreſaid <hi>Verſion.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="canticles">
+            <pb facs="tcp:180117:2"/>
+            <pb n="3" facs="tcp:180117:2"/>
+            <head>The Uſual <hi>Hymns,</hi> &amp;c.</head>
+            <opener>To the PROPER TUNES.</opener>
+            <div type="hymn">
+               <head>Te Deum Laudamus, <hi>&amp;c.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> O God we praiſe thee, and confeſs,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> that thou the on╌ly Lord</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> And e╌ver╌laſt╌ing Father art</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> by all the Earth ador'd.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> To thee all An╌gels cry a╌loud,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> To thee the Pow'rs on high,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Both Che╌ru╌bim and Se╌ra╌phim</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Con╌ti╌nual╌ly do cry,</l>
+               </lg>
+               <lg>
+                  <pb n="4" facs="tcp:180117:3"/>
+                  <l>Thrice holy Lord, the God whom all</l>
+                  <l>the heav'nly Hoſts obey;</l>
+                  <l>The world is with the Glory fill'd</l>
+                  <l>of thy Majeſtick Ray.</l>
+                  <l>Th'Apoſtles glorious Company,</l>
+                  <l>and Prophets, crown'd with Light,</l>
+                  <l>With all the Martyrs noble Hoſt,</l>
+                  <l>thy conſtant Praiſe recite.</l>
+               </lg>
+               <lg>
+                  <l>The holy Church, throughout the World,</l>
+                  <l>O Lord, confeſſes Thee;</l>
+                  <l>That Thou eternal Father art,</l>
+                  <l>of boundleſs Majeſty.</l>
+                  <l>Thy honour'd, true and only Son;</l>
+                  <l>and Holy Ghoſt, the Spring</l>
+                  <l>Of never ceaſing Joy: O Chriſt</l>
+                  <l>of Glory thou art King.</l>
+               </lg>
+               <lg>
+                  <l>The Father's everlaſting Son,</l>
+                  <l>thou from on high didſt come</l>
+                  <l>To ſave Mankind, and didſt not then,</l>
+                  <l>diſdain the Virgin's Womb.</l>
+                  <l>And having overcome the ſting</l>
+                  <l>of Death, thou open'dſt wide</l>
+                  <l>The Gates of Heav'n to all, who firm</l>
+                  <l>in thy Belief abide.</l>
+               </lg>
+               <div type="part">
+                  <head>
+                     <hi>PART</hi> II.</head>
+                  <lg>
+                     <l>Crown'd with the Father's Glory thou</l>
+                     <l>at God's right hand doſt ſit;</l>
+                     <l>Whence thou ſhalt come to be our Judge,</l>
+                     <l>to ſentence or acquit.</l>
+                     <l>O therefore ſave thy ſervants, Lord,</l>
+                     <l>whoſe Souls ſo dearly coſt;</l>
+                     <l>Nor let the Purchaſe of thy Blood,</l>
+                     <l>thy precious Blood, be loſt.</l>
+                  </lg>
+                  <lg>
+                     <l>We magnifie thee day by day,</l>
+                     <l>and ever worſhip thee.</l>
+                     <pb n="5" facs="tcp:180117:3"/>
+                     <l>Vouchſafe to keep us, Lord, this day</l>
+                     <l>from ſin and danger free.</l>
+                     <l>Have mercy, mercy, on us, Lord!</l>
+                     <l>to us thy Grace extend,</l>
+                     <l>According as for mercy, we</l>
+                     <l>on thee alone depend.</l>
+                  </lg>
+                  <lg>
+                     <l>In thee I have repos'd my truſt,</l>
+                     <l>and ever ſhall do ſo,</l>
+                     <l>Preſerve me then from Ruin here,</l>
+                     <l>and from eternal Wo.</l>
+                     <l>
+                        <hi>To Father, Son, and Holy Ghoſt,</hi>
+                     </l>
+                     <l>
+                        <hi>the God whom we adore,</hi>
+                     </l>
+                     <l>
+                        <hi>Be Glory; as it was, and is,</hi>
+                     </l>
+                     <l>
+                        <hi>and ſhall be evermore.</hi>
+                     </l>
+                  </lg>
+               </div>
+            </div>
+            <div type="hymn">
+               <head>
+                  <hi>Veni Creator,</hi> &amp;c.</head>
+               <opener>Proper Tune. Firſt Metre.</opener>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> COme Holy Ghoſt, Cre╌a╌tor come,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and viſit all the Souls of thine;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Thou haſt inſpir'd our hearts with life,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> inſpire them now with life divine.</l>
+               </lg>
+               <lg>
+                  <l>Thou art the Comforter, the Gift</l>
+                  <l>of God moſt high; the Fire of Love,</l>
+                  <l>The everlaſting ſpring of Joy,</l>
+                  <l>and holy Unction from above.</l>
+               </lg>
+               <lg>
+                  <pb n="6" facs="tcp:180117:4"/>
+                  <l>Thy Gifts are manifold; thou writ'ſt</l>
+                  <l>God's Laws in ev'ry faithful Heart:</l>
+                  <l>The Promiſe of the Father, thou</l>
+                  <l>doſt heavenly Eloquence impart.</l>
+               </lg>
+               <lg>
+                  <l>Enlighten our dark Souls, till they</l>
+                  <l>thy Love, thy heav'nly Love embrace!</l>
+                  <l>And ſince we are by Nature frail,</l>
+                  <l>aſſiſt us with thy ſaving Grace!</l>
+               </lg>
+               <lg>
+                  <l>Drive far from us the mortal Foe;</l>
+                  <l>and grant us to have Peace within,</l>
+                  <l>That with thy Light and Guidance bleſt,</l>
+                  <l>we may eſcape the Snares of Sin.</l>
+               </lg>
+               <lg>
+                  <l>Teach us the Father to confeſs,</l>
+                  <l>and Son, who from the Grave reviv'd,</l>
+                  <l>And, with the Father and the Son,</l>
+                  <l>the Holy Ghoſt, from both deriv'd.</l>
+               </lg>
+               <lg>
+                  <l>With thee, O Father, therefore may</l>
+                  <l>the Son, who was from Death reſtor'd,</l>
+                  <l>And Sacred Comforter, one God,</l>
+                  <l>to endleſs Ages be ador'd.</l>
+               </lg>
+            </div>
+            <div type="hymn">
+               <head>
+                  <hi>Veni Creator,</hi> &amp;c.</head>
+               <opener>Second Metre.</opener>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> COme Holy Ghoſt, Cre╌a╌tor, come,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> inſpire the Souls of thine,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Till ev'ry Heart which thou haſt made</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> is fill'd with Grace divine.</l>
+                  <pb n="7" facs="tcp:180117:4"/>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Thou art the Com╌for╌ter, the Gift</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> of God, and Fire of Love;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> The e╌ver╌laſt╌ing Spring of Joy,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and Unction from a╌bove.</l>
+               </lg>
+               <lg>
+                  <l>Thy Gifts are manifold, thou writ'ſt</l>
+                  <l>God's Laws in each true Heart.</l>
+                  <l>The Promiſe of the Father, thou</l>
+                  <l>doſt heav'nly Speech impart.</l>
+                  <l>Enlighten our dark Souls till they</l>
+                  <l>thy Sacred Love embrace;</l>
+                  <l>Aſſiſt our Minds by Nature frail,</l>
+                  <l>with thy Caeleſtial Grace.</l>
+               </lg>
+               <lg>
+                  <l>Drive far from us the mortal Foe,</l>
+                  <l>and give us Peace within;</l>
+                  <l>That, by thy Guidance bleſt, we may</l>
+                  <l>eſcape the Snares of Sin.</l>
+                  <l>Teach us the Father to confeſs,</l>
+                  <l>and Son from Death reviv'd;</l>
+                  <l>And with them both, thee Holy Ghoſt,</l>
+                  <l>who art from both deriv'd.</l>
+               </lg>
+               <lg>
+                  <l>With thee, O Father, therefore may</l>
+                  <l>the Son, from Death reſtor'd,</l>
+                  <l>And ſacred Comforter, one God</l>
+                  <l>devoutly be ador'd.</l>
+                  <l>As in all Ages heretofore</l>
+                  <l>has conſtantly been done,</l>
+                  <l>As now it is; and ſhall be ſo,</l>
+                  <l>when Time his Courſe has run.</l>
+               </lg>
+            </div>
+            <div type="hymn">
+               <pb n="8" facs="tcp:180117:5"/>
+               <head>Benedictus. <hi>The Song of</hi> Zacharias. <hi>Luke</hi> I. <hi>v.</hi> 68, &amp;c.</head>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> NOw bleſt be Iſr'els Lord and God,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> whoſe mer╌cy at our need</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Has vi╌ſi╌ted his peoples grief,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and them from bondage freed.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> And rais'd in faithful David's Houſe</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Sal╌va╌tion which of old</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> E'er ſince the World it ſelf began</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> his Prophets had foretold.</l>
+               </lg>
+               <lg>
+                  <l>To ſave us from our ſpiteful Foes,</l>
+                  <l>and keep his Oath in mind,</l>
+                  <l>Which he to Abraham heretofore,</l>
+                  <l>and to our Fathers ſign'd;</l>
+                  <pb n="9" facs="tcp:180117:5"/>
+                  <l>That we, from Fear and Danger freed,</l>
+                  <l>his Temple may frequent;</l>
+                  <l>And all our Days as in his ſight,</l>
+                  <l>in holy Life be ſpent.</l>
+               </lg>
+               <lg>
+                  <l>And thou, O Child, ſhalt then be call'd,</l>
+                  <l>God's Prophet, to declare</l>
+                  <l>His Meſſage, and before his Face</l>
+                  <l>his Paſſage to prepare.</l>
+                  <l>To give them Light who now in Shades</l>
+                  <l>of Night and Death abide;</l>
+                  <l>And in the way that leads to Peace</l>
+                  <l>our Footſteps ſafely guide.</l>
+               </lg>
+            </div>
+            <div type="hymn">
+               <head>
+                  <hi>Magnificat.</hi> Song of the B. Virgin. Luke <hi>I. 46,</hi> &amp;c.</head>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> MY Soul and Spirit fill'd with joy,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> My God and Saviour praiſe;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Whoſe goodneſs did from poor e╌ſtate</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> his humble Handmaid raiſe.</l>
+                  <pb n="10" facs="tcp:180117:6"/>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Me bleſt of God, the God of Pow'r,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> all Ages ſhall confeſs,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Whoſe Name is ho╌ly, and whoſe Love,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> his Saints ſhall e╌ver bleſs,</l>
+               </lg>
+               <lg>
+                  <l>The Proud, and all their vain Deſigns,</l>
+                  <l>he quickly did confound;</l>
+                  <l>He caſt the Mighty from their Seat,</l>
+                  <l>the Meek and Humble crown'd.</l>
+                  <l>The Hungry with good things are fill'd:</l>
+                  <l>The Rich with Hunger pin'd:</l>
+                  <l>He ſent his Servant Iſr'el help,</l>
+                  <l>and call'd his Love to mind;</l>
+               </lg>
+               <lg>
+                  <l>Which to our Fathers, heretofore,</l>
+                  <l>by Oath he did enſure,</l>
+                  <l>To Abr'am and his choſen Seed,</l>
+                  <l>for ever to endure.</l>
+                  <l>
+                     <hi>To Father, Son, and Holy Ghoſt,</hi>
+                  </l>
+                  <l>
+                     <hi>the God whom we adore,</hi>
+                  </l>
+                  <l>
+                     <hi>Be Glory; as it was, and is,</hi>
+                  </l>
+                  <l>
+                     <hi>and ſhall be evermore.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="hymn">
+               <pb n="11" facs="tcp:180117:6"/>
+               <head>Nunc Dimittis. <hi>Song of St.</hi> Simeon. <hi>Luke</hi> I. 29.</head>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> LOrd let thy Servant now depart</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> in╌to thy promis'd Reſt,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Since my ex╌pect╌ing Eyes have been</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> with thy Sal╌va╌tion bleſt;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Which till this time thy favour'd Saints</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and Prophets on╌ly knew,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Long ſince prepar'd, but now ſet forth</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> in all the people's view.</l>
+               </lg>
+               <lg>
+                  <l>A Light to ſhew the Heathen World</l>
+                  <l>the way to ſaving Grace;</l>
+                  <l>But O, the Light and Glory both,</l>
+                  <l>of Iſr'el's choſen Race.</l>
+                  <pb n="12" facs="tcp:180117:7"/>
+                  <l>
+                     <hi>To Father, Son, and Holy Ghoſt,</hi>
+                  </l>
+                  <l>
+                     <hi>the God whom we adore,</hi>
+                  </l>
+                  <l>
+                     <hi>Be Glory; as it was, is now,</hi>
+                  </l>
+                  <l>
+                     <hi>and ſhall be evermore.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="hymn">
+               <head>The Creed.</head>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> I Sted╌faſt╌ly believe in God,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> the Father of all might,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Who made this lower World, and all</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> the glorious Worlds of Light.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> And I believe in Je╌ſus Chriſt</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> the e╌ver╌laſt╌ing Word;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Th'Almighty Father's on╌ly Son,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and our moſt gracious Lord.</l>
+               </lg>
+               <lg>
+                  <pb n="13" facs="tcp:180117:7"/>
+                  <l>Conceiv'd by th' Holy Ghoſt, and of</l>
+                  <l>the Virgin <hi>Mary</hi> born;</l>
+                  <l>By <hi>Pontius Pilate</hi> doom'd to bear</l>
+                  <l>moſt bitter Pains and Scorn.</l>
+                  <l>Was crucify'd; and for a time,</l>
+                  <l>both dead and bury'd lay;</l>
+                  <l>Deſcended into Hell; and roſe</l>
+                  <l>to Life on the third Day;</l>
+               </lg>
+               <lg>
+                  <l>Aſcended up to Heav'n; and there</l>
+                  <l>at God's Right Hand is plac't;</l>
+                  <l>From whence he ſhall return to judge</l>
+                  <l>the Quick and Dead at laſt.</l>
+                  <l>I likewiſe firmly do believe</l>
+                  <l>O Holy Ghoſt in thee;</l>
+                  <l>The Holy Univerſal Church;</l>
+                  <l>and Saints Community.</l>
+               </lg>
+               <lg>
+                  <l>Forgiveneſs of repented Sins,</l>
+                  <l>(through Chriſt our Sacrifice)</l>
+                  <l>The Reſurrection of the Dead;</l>
+                  <l>and Life that never dies.</l>
+                  <l>
+                     <hi>To Father, Son, and Holy Ghoſt,</hi>
+                  </l>
+                  <l>
+                     <hi>the God whom we adore,</hi>
+                  </l>
+                  <l>
+                     <hi>Be Glory; as it was, is now,</hi>
+                  </l>
+                  <l>
+                     <hi>and ſhall be evermore.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="hymn">
+               <head>Lord's Prayer.</head>
+               <opener>
+                  <hi>To the</hi> 112 Pſ. <hi>Tune.</hi> Firſt Metre.</opener>
+               <lg>
+                  <l>OUr Father who in Heaven art,</l>
+                  <l>Thy Name be hallow'd in each Heart:</l>
+                  <l>Thy Kingdom come; may we fulfill,</l>
+                  <l>Who dwell on Earth, thy heav'nly Will,</l>
+                  <l>With equal Chearfulneſs and Love</l>
+                  <l>As Saints and Angels do above.</l>
+               </lg>
+               <lg>
+                  <pb n="14" facs="tcp:180117:8"/>
+                  <l>Give us this day our daily Bread;</l>
+                  <l>Us into no Temptation lead,</l>
+                  <l>But with thy Grace preſerve us ſtill</l>
+                  <l>From Sin, and every thing that's ill.</l>
+                  <l>For thine the Kingdom and the Pow'r</l>
+                  <l>And Glory are for evermore.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>To Father, Son, and Holy Ghoſt,</hi>
+                  </l>
+                  <l>
+                     <hi>The God whom all the Sacred Hoſt</hi>
+                  </l>
+                  <l>
+                     <hi>Of Saints and Angels do adore,</hi>
+                  </l>
+                  <l>
+                     <hi>All Glory be, as heretofore</hi>
+                  </l>
+                  <l>
+                     <hi>It was, is now, and ſo ſhall be</hi>
+                  </l>
+                  <l>
+                     <hi>To Ages of Eternity.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="hymn">
+               <head>Second Metre.</head>
+               <opener>To any Tune of Common Meaſure.</opener>
+               <lg>
+                  <l>OUr Father, who in Heaven art,</l>
+                  <l>all hallow'd be thy Name;</l>
+                  <l>Thy Kingdom come; thy Will be done,</l>
+                  <l>throughout this earthly Frame,</l>
+                  <l>As cheerfully as 'tis by thoſe</l>
+                  <l>who dwell with thee on high;</l>
+                  <l>Lord let thy Bounty day by day</l>
+                  <l>our daily Food ſupply;</l>
+               </lg>
+               <lg>
+                  <l>As we forgive our Enemies,</l>
+                  <l>thy Pardon, Lord, we crave;</l>
+                  <l>Into Temptation lead us not,</l>
+                  <l>but us from Evil ſave;</l>
+                  <l>For Kingdom, Pow'r and Glory, all</l>
+                  <l>belong, O Lord, to thee;</l>
+                  <l>Thine from Eternity they were,</l>
+                  <l>and thine ſhall ever be.</l>
+               </lg>
+            </div>
+            <div type="hymn">
+               <pb n="15" facs="tcp:180117:8"/>
+               <head>
+                  <hi>The</hi> Ten Commandments.</head>
+               <lg>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> GOD ſpake theſe words, O Iſr'el hear,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> what I ſhall now command,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Thy Lord and on╌ly God am I,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> who with al╌migh╌ty hand</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> From Egypts Land, and from the Houſe</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> of Bondage ſet thee free:</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> And therefore Iſr'el, (1.) Thou ſhalt have</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> no o╌ther God but me.</l>
+               </lg>
+               <lg>
+                  <l>2. Thou ſhalt no graven Image make,</l>
+                  <l>nor likeneſs ſhalt thou feign,</l>
+                  <l>Of any thing that Heav'n or Earth,</l>
+                  <l>or wat'ry Deeps contain.</l>
+                  <pb n="16" facs="tcp:180117:9"/>
+                  <l>Thou ſhalt not bow thy ſelf to them,</l>
+                  <l>nor outward Worſhip pay;</l>
+                  <l>Much leſs ſhalt thou, in Heart, adore,</l>
+                  <l>and to an Idol pray.</l>
+               </lg>
+               <lg>
+                  <l>For I thy God, a Jealous God,</l>
+                  <l>the Father's Sin chaſtize</l>
+                  <l>To third and fourth Deſcent, of all</l>
+                  <l>who are my Enemies:</l>
+                  <l>But Mercy do to thouſands ſhew,</l>
+                  <l>and bounteouſly repay</l>
+                  <l>All thoſe who me ſincerely Love,</l>
+                  <l>and my Command, obey.</l>
+               </lg>
+               <lg>
+                  <l>3. The Sacred Name of God thy Lord</l>
+                  <l>thou never ſhalt profane,</l>
+                  <l>For God will them not guiltleſs hold</l>
+                  <l>who take his Name in vain.</l>
+                  <l>4. Remember thou the Sabbath Day</l>
+                  <l>to keep with holy care;</l>
+                  <l>Six Days for Labour thou ſhalt take,</l>
+                  <l>to finiſh each Affair:</l>
+               </lg>
+               <lg>
+                  <l>But God, thy Lord, the Seventh Day</l>
+                  <l>his Sabbath did ordain,</l>
+                  <l>In which thou ſhalt from ev'ry kind</l>
+                  <l>of worldly Work refrain.</l>
+                  <l>Thy ſelf, thy Children, Servants, then,</l>
+                  <l>from Labour ſhall be free,</l>
+                  <l>Thy Cattle, and the Stranger, whom</l>
+                  <l>thou tak'ſt to dwell with thee.</l>
+               </lg>
+               <lg>
+                  <l>For God thy Lord the ſolemn ſpace</l>
+                  <l>of ſix whole Days did take,</l>
+                  <l>The Heavens, Earth, and Seas, and all</l>
+                  <l>therein contain'd, to make;</l>
+                  <l>But reſted on the Seventh Day,</l>
+                  <l>which for that cauſe, he bleſt,</l>
+                  <l>And ſanctify'd it to be kept</l>
+                  <l>a Day of holy reſt.</l>
+               </lg>
+               <lg>
+                  <pb n="17" facs="tcp:180117:9"/>
+                  <l>5. Honour thy Parents, that thou mayſt</l>
+                  <l>both long and happy live,</l>
+                  <l>In that bleſt Land which God, thy Lord,</l>
+                  <l>did for thy dwelling give.</l>
+                  <l>6. From Murder. (7.) From Adultery.</l>
+                  <l>8. And Theft thou ſhalt forbear:</l>
+                  <l>9. Nor falſely ſhalt in any caſe</l>
+                  <l>againſt thy Neighbour ſwear.</l>
+               </lg>
+               <lg>
+                  <l>10. Thou ſhalt, not covet Houſe, or Wife,</l>
+                  <l>or Man, or Maid of his,</l>
+                  <l>Or Ox, or Aſs, or ought whereof</l>
+                  <l>he rightful Owner is.</l>
+                  <l>
+                     <hi>Have Mercy therefore on us, Lord,</hi>
+                  </l>
+                  <l>
+                     <hi>and all our Hearts incline</hi>
+                  </l>
+                  <l>
+                     <hi>With Diligence and Care to keep</hi>
+                  </l>
+                  <l>
+                     <hi>theſe righteous Laws of thine.</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+         <div type="hymns">
+            <pb n="18" facs="tcp:180117:10"/>
+            <head>Additional <hi>HYMNS</hi> which may be Sung to any of the Tunes of Common Meaſure, printed to<g ref="char:EOLhyphen"/>wards the end of this <hi>Supplement.</hi>
+            </head>
+            <div type="hymn">
+               <head>Song of the Angels at the Nativity of our Bleſſed Saviour. <hi>Luke</hi> II. from <hi>v.</hi> 8. to <hi>v.</hi> 15.</head>
+               <lg>
+                  <l>WHile Shepherds watch'd their Flocks by Night</l>
+                  <l>all ſeated on the Ground,</l>
+                  <l>The Angel of the Lord came down,</l>
+                  <l>and Glory ſhone around.</l>
+                  <l>"Fear not, ſaid he, (for mighty Dread</l>
+                  <l>"had ſeiz'd their troubled Mind)</l>
+                  <l>"Glad Tidings of great Joy I bring</l>
+                  <l>"to you and all Mankind;</l>
+               </lg>
+               <lg>
+                  <l>"To you, in <hi>David</hi>'s Town this Day</l>
+                  <l>"is born of <hi>David</hi>'s Line,</l>
+                  <l>"The Saviour, who is Chriſt the Lord;</l>
+                  <l>"and this ſhall be the ſign:</l>
+                  <l>"The heav'nly Babe you there ſhall find</l>
+                  <l>"to humane view diſplay'd,</l>
+                  <l>"All meanly wrapt in ſwathing Bands,</l>
+                  <l>"and in a Manger laid.</l>
+               </lg>
+               <lg>
+                  <l>Thus ſpake the Seraph, and forthwith</l>
+                  <l>appear'd a ſhining Throng</l>
+                  <l>Of Angels praiſing God, and thus</l>
+                  <l>addreſt their ioyful Song;</l>
+                  <l>"All Glory be to God on high,</l>
+                  <l>"and to the Earth be Peace;</l>
+                  <l>"Good-will, henceforth, from Heav'n to Men,</l>
+                  <l>"begin and never ceaſe.</l>
+               </lg>
+            </div>
+            <div type="hymn">
+               <pb n="19" facs="tcp:180117:10"/>
+               <head>EASTER-DAY.</head>
+               <lg>
+                  <l>
+                     <note place="margin">2 <hi>Cor.</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.7.</note>SInce Chriſt our Paſſover is ſlain</l>
+                  <l>a Sacrifice for all;</l>
+                  <l>Let all with thankful Hearts agree</l>
+                  <l>to keep the Feſtival</l>
+                  <l>Not with the Leaven, as of Old,</l>
+                  <l>of Sin and Malice fed;</l>
+                  <l>But with unfeign'd Sincerity,</l>
+                  <l>and Truth's unleavn'd Bread.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">
+                        <hi>Rom.</hi> 6.9.</note>Chriſt being rais'd, by Pow'r Divine,</l>
+                  <l>and reſcu'd from the Grave</l>
+                  <l>Shall die no more, Death ſhall on him</l>
+                  <l>no more Dominion have;</l>
+                  <l>
+                     <note place="margin">v. 10.</note>For that he dy'd, 'twas for our Sins</l>
+                  <l>he once vouchſaf'd to die,</l>
+                  <l>But that he lives, he lives to God</l>
+                  <l>for all Eternity:</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">v. 11.</note>So count your ſelves as dead to Sin,</l>
+                  <l>but graciouſly reſtor'd,</l>
+                  <l>And made, henceforth alive to God</l>
+                  <l>through Jeſus Chriſt our Lord.</l>
+                  <l>
+                     <hi>To Father, Son, and Holy Ghoſt,</hi>
+                  </l>
+                  <l>
+                     <hi>the God whom we adore,</hi>
+                  </l>
+                  <l>
+                     <hi>Be Glory; as it was, is now,</hi>
+                  </l>
+                  <l>
+                     <hi>and ſhall be evermore.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="hymn">
+               <head>
+                  <hi>Second</hi> HYMN.</head>
+               <lg>
+                  <l>
+                     <note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>Cor.</hi> 5.20.</note>CHriſt from the Dead is rais'd and made</l>
+                  <l>the Firſt-Fruits of the Tomb,</l>
+                  <l>For, as by Man came Death, by Man</l>
+                  <l>did Reſurrection come.</l>
+                  <l>
+                     <note place="margin">v. 21.</note>For as in <hi>Adam</hi> all Mankind</l>
+                  <l>did Guilt and Death derive,</l>
+                  <l>So, by the Righteouſneſs of Chriſt,</l>
+                  <l>ſhall all be made alive.</l>
+               </lg>
+               <lg>
+                  <pb n="20" facs="tcp:180117:11"/>
+                  <l>
+                     <note place="margin">
+                        <hi>Coloſſ.</hi> 3.1.</note>If then ye riſen are with Chriſt,</l>
+                  <l>ſeek only how to get</l>
+                  <l>The things that are above, where Chriſt</l>
+                  <l>at God's right hand is ſet.</l>
+                  <l>
+                     <hi>To Father, Son, and Holy Ghoſt,</hi>
+                  </l>
+                  <l>
+                     <hi>the God whom we adore,</hi>
+                  </l>
+                  <l>
+                     <hi>Be Glory; as it was, is now,</hi>
+                  </l>
+                  <l>
+                     <hi>and ſhall be evermore.</hi>
+                  </l>
+               </lg>
+               <note n="*" place="bottom">
+                  <hi>For</hi> Whit-Sunday <hi>and</hi> Trinity-Sundays <hi>may be ſung the</hi> Te Deum <hi>and</hi> Veni Creator.</note>
+            </div>
+         </div>
+         <div type="hymns">
+            <head>Hymns <hi>for the</hi> H. Communion.</head>
+            <div type="hymn">
+               <head>
+                  <hi>HYMN I.</hi> Out of the <hi>Revelation</hi> of St. <hi>John.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <note place="margin">
+                        <hi>Ch.</hi> 4.</note>THou God, all Glory, Honour and Pow'r</l>
+                  <l>art worthy to receive,</l>
+                  <l>Since all things by thy Pow'r were made,</l>
+                  <l>and by thy Bounty live.</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Ch.</hi> 5. <hi>v.</hi> 12.</note>And worthy is the Lamb, all Pow'r,</l>
+                  <l>Honour and Wealth to gain,</l>
+                  <l>Glory and Strength; who for our Sins</l>
+                  <l>a Sacrifice was ſlain.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">
+                        <hi>v.</hi> 8.</note>All worthy thou, who haſt redeem'd</l>
+                  <l>and ranſom'd us to God,</l>
+                  <l>From ev'ry Nation, ev'ry Coaſt,</l>
+                  <l>by thy moſt precious Blood.</l>
+                  <l>Bleſſing and Honour, Glory, Pow'r,</l>
+                  <l>by all in Earth and Heaven,</l>
+                  <l>To him that ſits upon the Throne,</l>
+                  <l>and to the Lamb be given.</l>
+               </lg>
+            </div>
+            <div type="hymn">
+               <pb n="21" facs="tcp:180117:11"/>
+               <head>HYMN II. Rev. <hi>Chap.</hi> 19.</head>
+               <lg>
+                  <l>
+                     <note place="margin">
+                        <hi>V.</hi> 5.</note>ALL ye who faithful Servants are</l>
+                  <l>of our Almighty King,</l>
+                  <l>Both high and low, and ſmall and great,</l>
+                  <l>his Praiſe devoutly ſing!</l>
+                  <l>
+                     <note place="margin">v.</note>Let us rejoyce, and render Thanks</l>
+                  <l>to his moſt Holy Name;</l>
+                  <l>Rejoyce, rejoyce, for now is come</l>
+                  <l>the Marriage of the Lamb.</l>
+               </lg>
+               <lg>
+                  <l>His Bride her ſelf has ready made,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>v.</hi> 8.</note>How pure and white her Dreſs!</l>
+                  <l>Which is her Saints Integrity</l>
+                  <l>and ſpotleſs Holineſs.</l>
+                  <l>O therefore bleſt is ev'ry one</l>
+                  <l>who to the Marriage-Feaſt</l>
+                  <l>And holy Supper of the Lamb</l>
+                  <l>is call'd a welcome Gueſt.</l>
+               </lg>
+            </div>
+            <div type="hymn">
+               <head>HYMN III. <hi>The</hi> Thankſgiving <hi>in the</hi> Church-Communion-Service.</head>
+               <lg>
+                  <l>TO God be Glory, Peace on Earth,</l>
+                  <l>to all Mankind Good-will!</l>
+                  <l>We bleſs, we praiſe, we worſhip thee,</l>
+                  <l>and glorifie thee ſtill:</l>
+                  <l>And thanks for thy great Glory give,</l>
+                  <l>that fills our Souls with Light;</l>
+                  <l>O Lord! God! Heav'nly King! the God</l>
+                  <l>and Father of all Might.</l>
+               </lg>
+               <lg>
+                  <l>And thou, begotten Son of God</l>
+                  <l>before all time begun;</l>
+                  <l>O Jeſu Chriſt, God, Lamb of God,</l>
+                  <l>the Father's only Son!</l>
+                  <pb n="22" facs="tcp:180117:12"/>
+                  <l>Have Mercy thou that tak'ſt the Sins</l>
+                  <l>of all the World away:</l>
+                  <l>Have Mercy Saviour of Mankind,</l>
+                  <l>and hear us when we pray!</l>
+               </lg>
+               <lg>
+                  <l>O thou who fitt'ſt at God's right Hand,</l>
+                  <l>upon the Father's Throne,</l>
+                  <l>Have Mercy on us, thou, O Chriſt,</l>
+                  <l>who art the Holy One:</l>
+                  <l>The Lord, who, with the Holy Ghoſt,</l>
+                  <l>whom Earth and Heav'n adore,</l>
+                  <l>In Glory of the Father art</l>
+                  <l>moſt high for evermore.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="notice">
+            <head>ADVERTISEMENT.</head>
+            <p>THE Nation being at this time much inclin'd to <hi>Pſalmody,</hi> and the <hi>New Verſion</hi> of <hi>Pſalms</hi> ha<g ref="char:EOLhyphen"/>ving the Royal Allowance, and Recommendation of the Archbiſhops, Biſhop of <hi>London,</hi> and other Fa<g ref="char:EOLhyphen"/>thers of the Church; This <hi>Supplement</hi> was thought Requiſite to make up the whole <hi>Variety</hi> of <hi>Metres,</hi> that are in the <hi>Old Verſion,</hi> with <hi>Duplicates</hi> to moſt of them, and <hi>Gloria Patri's:</hi> The want of which has partly occaſion'd the Diſuſe of many excellent <hi>Tunes:</hi> All which <hi>Tunes</hi> and <hi>Gloria Pa<g ref="char:EOLhyphen"/>tri's,</hi> being printed in this <hi>Supplement,</hi> may ſo far accommodate thoſe who ſing the <hi>Old Verſion,</hi> and be acceptable to thoſe Perſons who employ their Fa<g ref="char:EOLhyphen"/>culty in the laudable and pious Work of Teaching <hi>Pſalmody</hi> in either <hi>Verſion.</hi> And for further Accommodation, here is likewiſe added, a Collecti<g ref="char:EOLhyphen"/>on of all the moſt uſual <hi>Tunes</hi> both of <hi>Common Meaſure</hi> and <hi>Others.</hi>
+            </p>
+         </div>
+         <div type="metrical_Psalter">
+            <pb n="23" facs="tcp:180117:12"/>
+            <head>PSALMS done in <hi>particular Meaſures</hi> to make up the whole <hi>Variety</hi> of <hi>Metres</hi> that are in the <hi>Old Verſion,</hi> with their proper <hi>Tunes.</hi>
+            </head>
+            <div type="measure">
+               <head>PSALMS <hi>to the</hi> Tune <hi>of the Old</hi> 50th Pſalm. </head>
+               <div n="47" type="Psalm">
+                  <head>Pſalm XLVII.</head>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> O Clap your hands ye people ſhout &amp; ſing</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> To God the great and u╌ni╌ver╌ſal King;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 'Twas he ſubdu'd whole Nations of our Foes</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Then for our Lott the Pride of Jacob choſe.</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> God is gone up, the Lord is high aſcended</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> With trumpets ſound &amp; ſhouts of Joy attended.</l>
+                  </lg>
+                  <lg>
+                     <pb n="24" facs="tcp:180117:13"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>6-7</label> To God the great</l>
+                     <l>and Univerſal King,</l>
+                     <l>Exalted Praiſe,</l>
+                     <l>with Underſtanding, ſing!</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>8</label> The Heathen he</l>
+                     <l>rules from his holy Throne;</l>
+                     <l>Whom he, in time,</l>
+                     <l>ſhall call and make his own:</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>9</label> Whoſe Chiefs ſhall joyn</l>
+                     <l>with Saints, by him elected;</l>
+                     <l>For by his Pow'r</l>
+                     <l>the Earth is all protected.</l>
+                     <l>Gloria Patri, <hi>&amp;c.</hi>
+                     </l>
+                     <l>
+                        <hi>To Father, Son,</hi>
+                     </l>
+                     <l>
+                        <hi>and Spirit ever bleſt,</hi>
+                     </l>
+                     <l>
+                        <hi>All Honour, Praiſe,</hi>
+                     </l>
+                     <l>
+                        <hi>and worſhip be addreſt;</hi>
+                     </l>
+                     <l>
+                        <hi>As it was done</hi>
+                     </l>
+                     <l>
+                        <hi>in Ages long ago,</hi>
+                     </l>
+                     <l>
+                        <hi>As now it is,</hi>
+                     </l>
+                     <l>
+                        <hi>and ſhall continue ſo</hi>
+                     </l>
+                     <l>
+                        <hi>To the laſt Bounds</hi>
+                     </l>
+                     <l>
+                        <hi>and Date of Time extended,</hi>
+                     </l>
+                     <l>
+                        <hi>And ſtill endure</hi>
+                     </l>
+                     <l>
+                        <hi>when Time his Courſe has ended.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div n="93" type="Psalm">
+                  <head>PSALM XCIII.</head>
+                  <opener>
+                     <hi>To the ſame</hi> Tune.</opener>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>1</label> WIth Glory crown'd,</l>
+                     <l>and matchleſs Strength array'd,</l>
+                     <l>So firmly God</l>
+                     <l>the World's Foundation lay'd,</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>2</label> That like his Throne,</l>
+                     <l>it ſhall remain the ſame,</l>
+                     <l>Till he who made,</l>
+                     <l>diſſolves the mighty Frame.</l>
+                     <pb n="25" facs="tcp:180117:13"/>
+                     <l>For he is God,</l>
+                     <l>in Majeſty tranſcending,</l>
+                     <l>That always was,</l>
+                     <l>and never ſhall have ending.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>3-4</label> His louder voice,</l>
+                     <l>in Thunder from the Skie,</l>
+                     <l>Makes ſwelling Floods,</l>
+                     <l>and warring Seas comply.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>5</label> His Promiſes</l>
+                     <l>to all who him adore,</l>
+                     <l>Shall, like himſelf,</l>
+                     <l>endure for evermore.</l>
+                     <l>Who in his Courts,</l>
+                     <l>expect to have their Dwelling</l>
+                     <l>In Holineſs</l>
+                     <l>muſt always be excelling.</l>
+                  </lg>
+               </div>
+               <div n="117" type="Psalm">
+                  <head>Pſalm CXVII.</head>
+                  <opener>To the ſame Tune.</opener>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> IN Praiſe to God,</l>
+                  <l>let all the People join,</l>
+                  <l>And diſtant Lands,</l>
+                  <l>in praiſing him combine;</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> 'Tis juſt, the World</l>
+                  <l>ſhould all, his Bounty praiſe.</l>
+                  <l>Since that extends,</l>
+                  <l>to all the World its Rays:</l>
+                  <l>Then let Mankind,</l>
+                  <l>with one conſent, perſever,</l>
+                  <l>In praiſing him,</l>
+                  <l>whoſe Praiſe endures for ever.</l>
+               </div>
+               <div type="gloria">
+                  <head>GLORIA PATRI.</head>
+                  <l>TO Father, Son,</l>
+                  <l>and Spirit ever bleſt,</l>
+                  <l>Immortal Praiſe,</l>
+                  <l>and Glory be addreſt</l>
+                  <l>As it has b en,</l>
+                  <l>in Ages long ago,</l>
+                  <pb n="26" facs="tcp:180117:14"/>
+                  <l>As now it is,</l>
+                  <l>and ſhall continue ſo;</l>
+                  <l>Beyond the Date</l>
+                  <l>and courſe of Time extending:</l>
+                  <l>For Time muſt ceaſe,</l>
+                  <l>god's Praiſe ſhall have no ending.</l>
+               </div>
+               <div n="64" type="Psalm">
+                  <head>Pſalm LXIV.</head>
+                  <opener>Toe the Tune of the Old <hi>CIV</hi> Pſalm.</opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>1</label> OUR God bleſs us, all</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> with Mercy and Love;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> The cheriſhing Beams</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> of Favour beſtow;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> That Earth his juſt dealings</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> may ſee and approve,</l>
+                     <pb n="27" facs="tcp:180117:14"/>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> His healing Salvation,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> all People may know.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>3</label> Let therefore Mankind,</l>
+                     <l>O God, praiſe thy Name,</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>4</label> For joy, ſhout and ſing.</l>
+                     <l>to ſee thy juſt ways:</l>
+                     <l>With Wiſdom thou govern'ſt,</l>
+                     <l>the World's mighty Frame.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>5</label> Let therefore all Nations,</l>
+                     <l>O God, give Thee Praiſe,</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>6-7</label> Then ſhall the glad Earth,</l>
+                     <l>afford her increaſe;</l>
+                     <l>And God, our own God,</l>
+                     <l>ſtill preſent appear,</l>
+                     <l>To bleſs us and ours,</l>
+                     <l>with Plenty and Peace;</l>
+                     <l>And Earth's remote Borders,</l>
+                     <l>of Him ſtand in Fear.</l>
+                  </lg>
+               </div>
+               <div n="24" type="Psalm">
+                  <head>Pſalm XXIV.</head>
+                  <opener>To the ſame Tune</opener>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> THE Praiſe of our God,</l>
+                  <l>all People repeat;</l>
+                  <l>Throughout the wide World,</l>
+                  <l>his Triumph extend</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> Whoſe Mercy and Kindneſs</l>
+                  <l>To us are ſo great!</l>
+                  <l>Whoſe Love has no limit.</l>
+                  <l>his Truth has no end.</l>
+               </div>
+               <div type="gloria">
+                  <head>GLOR. PATR.</head>
+                  <l>TO Father, Son, Spirit,</l>
+                  <l>all Praiſe be addreſt;</l>
+                  <pb n="28" facs="tcp:180117:15"/>
+                  <l>By Angels and Saints,</l>
+                  <l>of ev'ry Degree:</l>
+                  <l>To God in three Perſons,</l>
+                  <l>One God ever bleſt;</l>
+                  <l>As it has been, now is,</l>
+                  <l>and ever ſhall be.</l>
+               </div>
+               <div n="24" type="Psalm">
+                  <opener>To the Tune of the Old <hi>CXI. The ſame Pſalm.</hi>
+                  </opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> WIth my whole Heart, thy Fame,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> O Lord, I will proclaim.</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> in all the Peoples ſight.</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> The Works that thou haſt wrought</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Are great, and duly ſought,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> of all whom they delight.</l>
+                     <pb n="29" facs="tcp:180117:15"/>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> God's Work is nobly vaſt,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> His Truth ſhall always laſt,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> his works of wondrous faſhion,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Shall ſtill be kept in mind;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> The gracious Lord is kind,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> and full of ſweet compaſſion.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>5</label> With Plenty he has ſtor'd,</l>
+                     <l>Thoſe who his Name ador'd;</l>
+                     <l>His Promiſe firmly ſtands:</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>6</label> His Pow'r he did expreſs,</l>
+                     <l>And made his Saints poſſeſs,</l>
+                     <l>The vanquiſh'd Heathen Lands.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>7-8</label> His Works are juſt and pure;</l>
+                     <l>All his commands are ſure,</l>
+                     <l>And ſhall endure for ever;</l>
+                     <l>In Judgments ballance weigh'd;</l>
+                     <l>And by the Model made</l>
+                     <l>Of Truth that varies never.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>9</label> His People firſt he freed;</l>
+                     <l>Then, with the choſen Seed,</l>
+                     <pb n="30" facs="tcp:180117:16"/>
+                     <l>A ſolemn League did frame,</l>
+                     <l>That they for evermore,</l>
+                     <l>Devoutly ſhould adore,</l>
+                     <l>His holy, awful Name.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>10</label> To fear th'Almighty King,</l>
+                     <l>of Wiſdom is the Spring;</l>
+                     <l>They only, who perſever,</l>
+                     <l>His Precepts to fulfill,</l>
+                     <l>Have true and ſaving skill:</l>
+                     <l>His Praiſe endures for ever.</l>
+                  </lg>
+               </div>
+               <div n="131" type="Psalm">
+                  <head>Pſalm CXXXI.</head>
+                  <opener>To the ſame Tune.</opener>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> THOU, Lord, my Witneſs art,</l>
+                  <l>I am not proud of Heart,</l>
+                  <l>Nor caſt a ſcornful Eye.</l>
+                  <l>I have no vain Deſire,</l>
+                  <l>Nor do my Thughts aſpire,</l>
+                  <l>at Things for me too high,</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> But with an humble mind,</l>
+                  <l>Contented and reſign'd,</l>
+                  <l>I have my ſelf demeaned,</l>
+                  <l>All innocently mild,</l>
+                  <l>And peaceful as a Child,</l>
+                  <l>that from the Breaſt is weaned.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> Let Iſr'el then like me,</l>
+                  <l>For ſuccour, Lord, on thee,</l>
+                  <l>with humble truſt rely;</l>
+                  <l>Make thee his only ſtay,</l>
+                  <l>Ev'n from this preſent Day,</l>
+                  <l>to all eternity.</l>
+               </div>
+               <div type="gloria">
+                  <head>GLOR. PATR.</head>
+                  <l>TO praiſe the Father, Son,</l>
+                  <l>And Spirit, Three in one;</l>
+                  <l>let all true Saints perſever,</l>
+                  <l>As 'twas in Ages paſt,</l>
+                  <l>Is now, and ſo ſhall laſt,</l>
+                  <l>for ever and for ever.</l>
+               </div>
+               <div n="131" type="Psalm">
+                  <pb n="31" facs="tcp:180117:16"/>
+                  <opener>To the Tune of the Old <hi>CXII. The ſame Pſalm.</hi>
+                  </opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>1</label> HOW bleſt is he, and only he,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Who fears the Lord, and loves his Law,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> His Seed on Earth, renown'd ſhall be,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> And Bleſſings on their Off╌ſpring draw;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> His Houſe in wealth ſhall never fail;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> His Juſtice ſhall his Heirs avail.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> To him ſhall Light in Darkneſs riſe;</l>
+                     <l>Kind, Good, and Juſt, he gives and lends;</l>
+                     <l>While prudent management ſupplies,</l>
+                     <l>What he in Charity expends.</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> The ſweet remembrance of the Juſt,</l>
+                     <l>Shall flouriſh when he ſleeps in Duſt.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Ill Tidings may aſſault his Ear,</l>
+                     <l>But nev r can his Heart ſùrprize:</l>
+                     <l>Which, far above the reach of Fear,</l>
+                     <l>On God, his ſafety's Rock, relies,</l>
+                     <pb n="32" facs="tcp:180117:17"/>
+                     <l>Where, ſeated in ſecure repoſe,</l>
+                     <l>He ſees the ſhip-wrack of his Foes.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>9</label> The Poor he freely has reliev'd:</l>
+                     <l>His Truth ſhall laſt, his Honour grow;</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>10</label> When Sinners at his triumph griev'd,</l>
+                     <l>Shall fret and gnaſh their Teeth for woe:</l>
+                     <l>While their unrighteous hopes decay,</l>
+                     <l>And vaniſh with themſelves away.</l>
+                  </lg>
+               </div>
+               <div n="134" type="Psalm">
+                  <head>Pſalm CXXXIV.</head>
+                  <opener>To the ſame Tune.</opener>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>1</label> ALL you, who to the houſe of God,</l>
+                     <l>As faithful Servants have acceſs,</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>2</label> And nightly wait in his Abode</l>
+                     <l>Lift up your hands in holineſs;</l>
+                     <l>And, with your hands, devoutly raiſe,</l>
+                     <l>Your Hearts and Voices in his Praiſe.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>3</label> Then, by Commiſſion from above,</l>
+                     <l>Bleſs you the People in his Name,</l>
+                     <l>And ſay, "The God of Peace and Love,</l>
+                     <l>"Who did the whole Creation frame,</l>
+                     <l>"From <hi>Sion</hi> bleſs, for evermore,</l>
+                     <l>"Both you and yours, who him adore.</l>
+                  </lg>
+               </div>
+               <div type="gloria">
+                  <head>GLOR. PATR.</head>
+                  <l>TO God Almighty, Father, Son,</l>
+                  <l>And Comforter the Holy Ghoſt,</l>
+                  <l>Be Honour, Worſhip, Hommage done,</l>
+                  <l>By Saints and Angels ſacred Hoſt,</l>
+                  <l>As 'twas in Ages heretofore,</l>
+                  <l>Is now, and ſhall be evermore.</l>
+               </div>
+               <div n="134" type="Psalm">
+                  <pb n="33" facs="tcp:180117:17"/>
+                  <opener>To the Tune of the Old <hi>CXX. The ſame Pſalm.</hi>
+                  </opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> IN trouble and diſtreſs,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> To God I did addreſs,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Who reſcu'd me from wrong.</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> For ſhelter, Lord, to thee,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> From lying Lips I flee,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> And from the ſlandring Tongue.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>3</label> Small profit can accrue,</l>
+                     <l>But mighty Wrath is due,</l>
+                     <l>Perfideous Tongue to thee:</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>4</label> Thy Sting on thee ſhall turn;</l>
+                     <l>Of Flames that fiercely burn,</l>
+                     <l>The Fewel thou ſhalt be.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>5</label> With Grief how am I preſt?</l>
+                     <l>A Sojourner diſtreſt,</l>
+                     <pb n="34" facs="tcp:180117:18"/>
+                     <l>In <hi>Meſech</hi>'s barren Soil,</l>
+                     <l>With <hi>Kedar</hi>-Tents enclos'd,</l>
+                     <l>To Savages expos'd,</l>
+                     <l>And hourly made their Spoil.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>6</label> My Dwelling is with thoſe</l>
+                     <l>Who Peace and Love oppoſe,</l>
+                     <l>And Pleaſure take in Harms:</l>
+                     <l>Sweet Peach is all I ſeek,</l>
+                     <l>But when of Peace I ſpeak,</l>
+                     <l>They ſtrait cry out <hi>to Arms.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div n="134" type="Psalm">
+                  <opener>To the ſame Tune as <hi>Pſal. CXI.</hi> Old. <hi>v.</hi>
+                  </opener>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>1</label> THou Lord my Witneſs art,</l>
+                     <l>I am not proud of Heart,</l>
+                     <l>Nor have a ſcornful Eye.</l>
+                     <l>I have no vain Deſire</l>
+                     <l>Nor do my Thoughts aſpire,</l>
+                     <l>To things for me too high:</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>2</label> But with an humble mind,</l>
+                     <l>Contented and reſign'd,</l>
+                     <l>I have my ſelf demean'd.</l>
+                     <l>All innocent and mild.</l>
+                     <l>And peaceful as a Child,</l>
+                     <l>That from the Breaſt is wean'd.</l>
+                  </lg>
+                  <lg>
+                     <l>Let <hi>Iſr'el</hi> then like me,</l>
+                     <l>For ſuccour, Lord, on thee</l>
+                     <l>With humble truſt rely;</l>
+                     <l>Make thee his only ſtay,</l>
+                     <l>Ev'n from this preſent Day,</l>
+                     <l>To all Eternity.</l>
+                  </lg>
+               </div>
+               <div type="gloria">
+                  <head>GLOR. PATR.</head>
+                  <l>TO God the Father, Son,</l>
+                  <l>And Spirit, Three in One,</l>
+                  <l>All Praiſe and Glory be;</l>
+                  <l>As 'twas in Ages paſt,</l>
+                  <l>Is now and ſo ſhall laſt,</l>
+                  <l>To all Eternity.</l>
+               </div>
+               <div n="134" type="Psalm">
+                  <pb n="35" facs="tcp:180117:18"/>
+                  <opener>To the Tune of the Old <hi>CXXI. The ſame Pſalm.</hi>
+                  </opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> TO <hi>Sion</hi>'s Hill I lift my Eyes,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> From whence my help deſcends,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> My Soul, for help, depends</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> On God, the God who Earth and Skies</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> by his pow'r did firſt create,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> By the ſame upholds their ſtate.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>3</label> Thy God ſhall thee in ſafety keep,</l>
+                     <l>No Thunder can ſurprize,</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Thy Keeper's watchful Eyes.</l>
+                     <l>Our <hi>Iſr'el</hi>'s Shepherd will not ſleep.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>5</label> A true Guardian he will ſtand,</l>
+                     <l>With ſure aid on thy right hand.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>6</label> No Sun by Day, nor Moon by Night,</l>
+                     <l>Shall ever do thee harm,</l>
+                     <l>While his encircling Arm</l>
+                     <pb n="36" facs="tcp:180117:19"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>7</label> , Defends thee with reſiſtleſs Might;</l>
+                     <l>He ſhall thy dear Life protect,</l>
+                     <l>Evermore thy Ways direct.</l>
+                  </lg>
+               </div>
+               <div type="gloria">
+                  <head>GLOR. PATR.</head>
+                  <l>TO Father, Son, and Holy Ghoſt,</l>
+                  <l>Eternal Three in One,</l>
+                  <l>Be all Obeyſance done,</l>
+                  <l>By Saints and Angels ſacred Hoſt;</l>
+                  <l>As 'twas, is, and ſo ſhall be,</l>
+                  <l>Henceforth to Eternity.</l>
+               </div>
+               <div n="129" type="Psalm">
+                  <head>Pſalm CXXIX.</head>
+                  <opener>To the ſame Tune.</opener>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>1</label> OFT have they now, may <hi>Iſr'el</hi> ſay</l>
+                     <l>Me from my Youth aſſail'd,</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>2</label> But never quite prevail'd;</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>3</label> Oppreſt with cruel Wrongs, we lay,</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>4</label> But the Righteous God reliev'd,</l>
+                     <l>And from Bondage us retriev'd.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>5</label> Confuſion, Ruin, moſt forlorn,</l>
+                     <l>Shall prove the wretched ſtate,</l>
+                     <l>Of all who Sion hate.</l>
+                     <l>Untimely they ſhall fade like Corn</l>
+                     <l>On the tops of Houſes ſeen,</l>
+                     <l>That decays as ſoon as green.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>7</label> Which never for the joyful Day,</l>
+                     <l>Of Harveſt was deſign'd,</l>
+                     <l>For who will reap or bind?</l>
+                     <l>When None that paſſes by, will ſay,</l>
+                     <l>"May your work have good ſucceſs,</l>
+                     <l>"God from Heav'n your Labour bleſs.</l>
+                  </lg>
+                  <closer>To Father, Son, <hi>&amp;c.</hi>
+                  </closer>
+               </div>
+               <div n="129" type="Psalm">
+                  <pb n="37" facs="tcp:180117:19"/>
+                  <opener>To the Tune of the Old <hi>CXXII. The ſame Pſalm.</hi>
+                  </opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> HOW did my Soul rejoice,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> To hear the Peoples Voice:</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> To <hi>Sion</hi>'s Court let us repair,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <hi>Jeruſalem</hi> in thee,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> We ſhall aſſembled be;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Thou City moſt compact and fair.</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> The Tribes ſhall thither throng,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Who to our God belong;</l>
+                     <pb n="38" facs="tcp:180117:20"/>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> To worſhip at his Holy Place,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> For there with Juſtice crown'd,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> The Judgment Seats are found,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Of <hi>David,</hi> and his Royal Race.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>6</label> O pray for <hi>Salem</hi>'s Peace;</l>
+                     <l>Their Bleſſings ſhall increaſe,</l>
+                     <l>Who hearty Zeal for thee retain:</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>7</label> May therefore Happineſs,</l>
+                     <l>Thy Palaces poſſeſs,</l>
+                     <l>And Plenty in thy Streets remain.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>8</label> For Friends and Brethren's ſake,</l>
+                     <l>Who in thy Joys partake,</l>
+                     <l>I'll ſeek thy Good, and wiſh thee well;</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>9</label> But, for the Temple, more,</l>
+                     <l>Where we our God adore,</l>
+                     <l>And where our God vouchſafes to dwell.</l>
+                  </lg>
+               </div>
+               <div n="133" type="Psalm">
+                  <head>Pſalm CXXXIII.</head>
+                  <opener>To the ſame Tune.</opener>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>1</label> O 'tis a joyful ſight!</l>
+                     <l>When Brethren do unite,</l>
+                     <l>And Hearts with mutual Love are fill'd;</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>2</label> 'Tis like the Balſom ſhed,</l>
+                     <l>On <hi>Aaron</hi>'s ſacred Head,</l>
+                     <l>Which to his Garment's Hemm diſtill'd:</l>
+                  </lg>
+                  <lg>
+                     <pb n="39" facs="tcp:180117:20"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>3</label> Or like the Cryſtal Drops,</l>
+                     <l>That early on the tops</l>
+                     <l>Of <hi>Hermon,</hi> and Mount <hi>Sion</hi> ſhine:</l>
+                     <l>For <hi>Sion</hi> is the Place</l>
+                     <l>Of God's appointed Grace,</l>
+                     <l>The Seat and Spring of Life Divine.</l>
+                  </lg>
+               </div>
+               <div n="133" type="Psalm">
+                  <opener>To the Tune of the Old <hi>CXXIV. The ſame Pſalm.</hi>
+                  </opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> HAD not the Lord,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> (Let thankful Iſr'el ſay),</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Had not the Lord,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Been pleas'd to interpoſe</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> For our relief,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> When Men againſt us roſe.</l>
+                     <pb n="40" facs="tcp:180117:21"/>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Their ſwelling Rage.</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> in that moſt diſmal day,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Had ſoon o'rewhelm'd,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> and ſnatch'd us quite away.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>6</label> But God be bleſt,</l>
+                     <l>his Praiſe we will declare,</l>
+                     <l>Whoſe Mercy did</l>
+                     <l>our Sentenc'd Lives reprieve,</l>
+                     <l>And from their Jaws</l>
+                     <l>the panting Prey retrieve.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>7</label> Our heedleſs Souls,</l>
+                     <l>By his moſt watchful care,</l>
+                     <l>Are ſcap'd like Birds,</l>
+                     <l>Out of the Fowler's Suare;</l>
+                  </lg>
+                  <lg>
+                     <l>The Snare is broke,</l>
+                     <l>which they ſo cloſely laid;</l>
+                     <l>And we to Life</l>
+                     <l>and Liberty reſtor'd.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>8</label> Therefore on him,</l>
+                     <l>our ever gracious Lord,</l>
+                     <l>We will rely,</l>
+                     <l>and ſtill depend for Aid,</l>
+                     <l>On God, the God</l>
+                     <l>Who Earth and Heaven made.</l>
+                  </lg>
+               </div>
+               <div type="gloria">
+                  <pb n="41" facs="tcp:180117:21"/>
+                  <head>GLOR. PATR.</head>
+                  <l>TO God moſt high,</l>
+                  <l>the Father and the Son,</l>
+                  <l>And Holy Ghoſt,</l>
+                  <l>all Worſhip, Thanks and Praiſe</l>
+                  <l>Be now aſcrib'd,</l>
+                  <l>As in the former Days</l>
+                  <l>From Time's firſt Birth,</l>
+                  <l>has conſtantly been done;</l>
+                  <l>And ſo ſhall be,</l>
+                  <l>When Time his Courſe has run.</l>
+               </div>
+               <div n="54" type="Psalm">
+                  <head>Pſalm LIV.</head>
+                  <opener>To the ſame Tune.</opener>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>1</label> TO ſave me, Lord,</l>
+                     <l>thy Truth and Pow'r diſplay;</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>2</label> Hear my Complaint,</l>
+                     <l>and to my words incline!</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>3</label> Strangers, and ſuch</l>
+                     <l>as fear no God, combine</l>
+                     <l>To make my Soul,</l>
+                     <l>my guiltleſs Soul, their Prey:</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>4</label> But God will give,</l>
+                     <l>my Friends and me the Day.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>5</label> The God of Truth,</l>
+                     <l>ſhall my falſe Foes requite;</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>6</label> Then to his Courts</l>
+                     <l>free Off'rings I will bring,</l>
+                     <l>To his bleſt Name</l>
+                     <l>with Praiſe and Comfort ſing.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>7</label> When he from cares</l>
+                     <l>has freed my Soul outright,</l>
+                     <l>And my proud Foes,</l>
+                     <l>diſpers'd before my ſight.</l>
+                  </lg>
+               </div>
+               <div n="54" type="Psalm">
+                  <pb n="42" facs="tcp:180117:22"/>
+                  <opener>To the Tune of the Old <hi>CXXV. The ſame Pſalm.</hi> Firſt Metre.</opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> ALL who on Sion's God depend,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Like Sion's Mount ſhall ſtill abide,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> For as the Hills on ev'ry ſide</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <hi>Jeruſalem</hi>'s fair Gates defend;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> So his ſurrounding Arm,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Protects the juſt from harm.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>3</label> Ungodly Tyrants may oppreſs</l>
+                     <l>The beſt of Saints, but ne'er prevail,</l>
+                     <l>To make their ſteady Virtue fail:</l>
+                     <l>Or ſeek baſe means for their redreſs.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>4</label> For God will Grace impart,</l>
+                     <l>To all of upright Heart.</l>
+                  </lg>
+                  <lg>
+                     <pb n="43" facs="tcp:180117:22"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>5</label> They who perverſly turn aſide</l>
+                     <l>To crooked Paths, the Lord ſhall them</l>
+                     <l>With Reprobates to Death condemn;</l>
+                     <l>But Bleſſings for his Saints provide,</l>
+                     <l>To make their troubles ceaſe,</l>
+                     <l>And crown their days with Peace.</l>
+                  </lg>
+               </div>
+               <div type="gloria">
+                  <head>GLOR. PATR.</head>
+                  <l>TO Father, Son, and Holy Ghoſt,</l>
+                  <l>(The bleſt Eternal Three in One)</l>
+                  <l>Be Honour, Praiſe, and Worſhip done</l>
+                  <l>By Saints and Angels ſacred Hoſt,</l>
+                  <l>As always was, is now,</l>
+                  <l>And ever ſhall be ſo.</l>
+               </div>
+               <div n="54" type="Psalm">
+                  <opener>To the Tune of the Old <hi>CXXV. The ſame Pſalm. 2d.</hi> Metre.</opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> ALL they whoſe Hopes on God depend,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Like Sion's Mount ſhall ſtill abide;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> For as ſurrounding Hills defend</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <hi>Jeruſalem</hi> on ev'ry ſide.</l>
+                  </lg>
+                  <lg>
+                     <pb n="44" facs="tcp:180117:23"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>2</label> So, Day and Night,</l>
+                     <l>The Lord of Might,</l>
+                     <l>His faithful People does embrace,</l>
+                     <l>And with ſtrong Arm,</l>
+                     <l>From fear and harm,</l>
+                     <l>Will always guard his choſen Race.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>3</label> Though Tyrants may ſometimes prevail,</l>
+                     <l>They ſhall not them ſo long oppreſs;</l>
+                     <l>To make their Faith or Virtue fail,</l>
+                     <l>And ſeek baſe means for their Redreſs.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>4</label> To thoſe, O Lord,</l>
+                     <l>Who love thy Word,</l>
+                     <l>Do thou continue ever kind;</l>
+                     <l>To each true Heart,</l>
+                     <l>Thy Grace impart,</l>
+                     <l>Let ſuch thy conſtant favour find.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>5</label> All they who chuſe the crooked Path,</l>
+                     <l>And wander in the Sinner's way,</l>
+                     <l>The Righteous Lord incens'd to Wrath,</l>
+                     <l>Shall them with harden'd Sinners ſlay.</l>
+                     <l>The Lord of might,</l>
+                     <l>Shall thus requite,</l>
+                     <l>Thoſe who againſt his Law rebel,</l>
+                     <l>But Truth and Peace,</l>
+                     <l>Shall never ceaſe,</l>
+                     <l>Amongſt his faithful Saints to dwell.</l>
+                  </lg>
+               </div>
+               <div n="53" type="Psalm">
+                  <head>Pſalm LIII.</head>
+                  <opener>To the ſame Tune.</opener>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>1</label> THE wicked ſenſeleſs Fool hath ſaid,</l>
+                     <l>Within his Heart, "there is no God:</l>
+                     <l>Corrupt they are, and all miſled,</l>
+                     <l>Not one in Vertue's way has trod.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>2</label> The Lord look'd down,</l>
+                     <l>From Heav'n his Throne,</l>
+                     <pb n="45" facs="tcp:180117:23"/>
+                     <l>And all the Sons of Men did view;</l>
+                     <l>One Soul to find,</l>
+                     <l>Amongſt Mankind,</l>
+                     <l>Who his juſt Will perform'd, or knew.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>3</label> But all he ſaw, were gone aſtray,</l>
+                     <l>All were become corrupt and baſe;</l>
+                     <l>Not one that walk'd in Vertue's way,</l>
+                     <l>Not one of all the ſinful Race.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>5</label> Can they all be,</l>
+                     <l>To that Degree,</l>
+                     <l>Of Wickedneſs and Folly grown,</l>
+                     <l>That they each Hour,</l>
+                     <l>My Saints devour,</l>
+                     <l>And God's Almighty Pow'r diſown?</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>5</label> Therefore when quite of Fear bereft,</l>
+                     <l>At once with ſhame and Death ſurpriz'd,</l>
+                     <l>Their Carcaſſes on Earth were left,</l>
+                     <l>Contemn'd of God whom they deſpis'd.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>6</label> O would our God.</l>
+                     <l>From his Abode,</l>
+                     <l>March on, our Captive Sons to free,</l>
+                     <l>Could we ſurvey,</l>
+                     <l>That glorious Day,</l>
+                     <l>Then <hi>Iſr'el</hi>'s Joy compleat would be.</l>
+                  </lg>
+               </div>
+               <div n="53" type="Psalm">
+                  <opener>To the Tune of the Old <hi>CXXVI. The ſame Pſalm.</hi>
+                  </opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> WHen Sion's God</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Her Captive Sons from Bondage freed,</l>
+                     <pb n="46" facs="tcp:180117:24"/>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> A pleaſing Dream</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> It ſeem'd, of what we long deſir'd.</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> But when convinc'd</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> By happy Proofs, 'twas ſo indeed;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Mirth fill'd our Mouth,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> And Joy our ſilent Tongues inſpir'd:</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Our Foes repin'd,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> But were compell'd to own</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> The wondrous works</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Our God for us had done.</l>
+                  </lg>
+                  <lg>
+                     <pb n="47" facs="tcp:180117:24"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>3</label> 'Twas great (ſaid They)</l>
+                     <l>'Twas great, and moſt amazing ſtrange;</l>
+                     <l>What then ſhould we,</l>
+                     <l>For whom he wrought the happy Change?</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>4</label> To us bring Home,</l>
+                     <l>The Remnant of our Captive Bands,</l>
+                     <l>More welcom far,</l>
+                     <l>Than Rain to parcht and thirſty Lands.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>5-6</label> Who ſows good Grain,</l>
+                     <l>Altho' in Tears, ſhall come,</l>
+                     <l>And bring with Joy,</l>
+                     <l>a full-Ear'd Harveſt home.</l>
+                  </lg>
+               </div>
+               <div n="114" type="Psalm">
+                  <head>Pſalm CXIIII.</head>
+                  <opener>To the ſame Tune.</opener>
+                  <lg>
+                     <l>WHen <hi>Iſr'el,</hi> who</l>
+                     <l>Had ſuffer'd cruel Bondage long,</l>
+                     <l>From <hi>Egypt</hi> march'd;</l>
+                     <l>And pious <hi>Jacob</hi>'s choſen Seed,</l>
+                     <l>From Men who ſpake</l>
+                     <l>A foreign and offenſive Tongue,</l>
+                     <l>By Miracles</l>
+                     <l>And moſt amazing Signs were freed,</l>
+                     <l>The Lord of Hoſts,</l>
+                     <l>From <hi>Judah</hi>'s royal Tent,</l>
+                     <l>Through <hi>Iſr'el</hi>'s Camp</l>
+                     <l>His Sov'reign Orders ſent:</l>
+                     <l>The frighted Sea,</l>
+                     <l>And <hi>Jordan</hi>'s ſtream, ſhrunk back with awe,</l>
+                     <l>The Mountains skipp'd</l>
+                     <l>Like Rams, the leſſer Hills like Lambs;</l>
+                     <l>Why fled'ſt thou Sea?</l>
+                     <l>Why, <hi>Jordan,</hi> did thy ſtreams withdraw?</l>
+                     <l>What terrour ſeiz'd</l>
+                     <l>On you, O Mountains, that like Rams,</l>
+                     <l>Ye skipp'd? and why,</l>
+                     <l>Ye little Hills did you,</l>
+                     <pb n="48" facs="tcp:180117:25"/>
+                     <l>Like frighted Lambs,</l>
+                     <l>Your Leader's flight purſue?</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>7</label> Earth tremble on,</l>
+                     <l>Well may thy Guilt make thee afraid,</l>
+                     <l>Before thy Lord</l>
+                     <l>And Maker's Preſence to appear;</l>
+                     <l>'Tis time, high time,</l>
+                     <l>That Nature's ſelf ſhould be diſmay'd,</l>
+                     <l>When <hi>Jacob</hi>'s God,</l>
+                     <l>The mighty Lord of Hoſts, draws near;</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>8</label> Whoſe ſov'reign Will</l>
+                     <l>cou'd cancel Nature's Law,</l>
+                     <l>Turn Rocks to Lakes,</l>
+                     <l>From Flint a Fountain draw.</l>
+                  </lg>
+               </div>
+               <div n="114" type="Psalm">
+                  <pb n="49" facs="tcp:180117:25"/>
+                  <opener>To the Tune of the Old <hi>CXXVII. The ſame PSALM.</hi>
+                  </opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> IN vain we build with vaſt Expence,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> unleſs the Lord the Work ſuſtain,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Our Cities watch and ward in vain,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Unleſs the Lord be their Defence;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> In vain we needful Reſt forbear,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> and feed upon the bread of Care.</l>
+                  </lg>
+                  <lg>
+                     <pb n="50" facs="tcp:180117:26"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>3</label> He freely on his Saints beſtows</l>
+                     <l>ſupplies of Life, for with ſucceſs</l>
+                     <l>He does their daily Labour bleſs,</l>
+                     <l>And crowns their nights with ſweet Repoſe.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>4</label> Children are preſents from the Lord,</l>
+                     <l>and ſent as Piety's reward:</l>
+                  </lg>
+                  <lg>
+                     <l>Like arrows in a Giant's hand,</l>
+                     <l>to Parents Safety they afford:</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>5</label> The Man who has his Quiver ſtor'd</l>
+                     <l>with theſe defenſive Arms, may ſtand</l>
+                     <l>And bid defiance to his Foes,</l>
+                     <l>Who him, at Law or War, oppoſe.</l>
+                  </lg>
+               </div>
+               <div type="gloria">
+                  <head>Gloria Patra.</head>
+                  <l>To Father, Son, and Holy Ghoſt,</l>
+                  <l>(The bleſt eternal Three in One)</l>
+                  <l>Be Homage and Obeyſance done,</l>
+                  <l>By Saints and Angels ſacred Hoſt;</l>
+                  <l>As it has been in Ages paſt,</l>
+                  <l>Is now, and ſhall for ever laſt.</l>
+               </div>
+               <div n="114" type="Psalm">
+                  <pb n="51" facs="tcp:180117:26"/>
+                  <opener>To the Tune of the Old <hi>CXXX. The ſame PSALM.</hi>
+                  </opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> FRom the loweſt depth of Woe,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> to God I ſent my Cry:</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Hearken Lord to my Com╌plaint,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> and grac'ouſly reply</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Shoud'ſt, thou Lord, ſeverely Judge,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> who can the Trial bear?</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> But thou doſt forgive, leſt we</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> for╌ſake thee through De╌ſpair.</l>
+                  </lg>
+                  <lg>
+                     <pb n="52" facs="tcp:180117:27"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>5</label> Io! my Soul with Patience waits,</l>
+                     <l>for thee the living Lord;</l>
+                     <l>All my hopes are built upon</l>
+                     <l>thy never failing Word.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>6</label> 
+                        <hi>Iſr'el</hi> in thy God confide,</l>
+                     <l>whoſe Mercies ne'er decay;</l>
+                     <l>Flowing Streams they are, to heal</l>
+                     <l>and waſh thy Guilt away.</l>
+                  </lg>
+               </div>
+               <div type="gloria">
+                  <head>Glor. Patr.</head>
+                  <l>To the Father and the Son,</l>
+                  <l>and to the Holy Ghoſt,</l>
+                  <l>God ador'd by Saints on Earth,</l>
+                  <l>and by the Heavenly Hoſt,</l>
+                  <l>Glory be, as always was,</l>
+                  <l>in Ages heretofore;</l>
+                  <l>So 'tis now, and ſhall be ſo</l>
+                  <l>Henceforth for ever more.</l>
+               </div>
+               <div n="54" type="Psalm">
+                  <head>Pſal. LIV.</head>
+                  <opener>To the ſame Tune.</opener>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>1</label> Save me, Lord, for thy Name's ſake,</l>
+                  <l>and in thy ſtrength appear;</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>2</label> Judge my Cauſe, accept my Suit,</l>
+                  <l>and to my words give Ear:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>3</label> Strangers, whom I never wrong'd,</l>
+                  <l>to ruin me deſign'd;</l>
+                  <l>Cruel Men, who fear no God,</l>
+                  <l>againſt my Life combin'd.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>4</label> But the Lord vouchſafes at once,</l>
+                  <l>my Friends and me to guard:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>5</label> The juſt God ſhall give my Foes</l>
+                  <l>their Falſhoods due reward.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>6</label> Then free Off'rings I will bring,</l>
+                  <l>with Comfort bleſs his Name,</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">verse </seg>7</label> Who has freed me from Diſtreſs,</l>
+                  <l>and brought my Foes to ſhame.</l>
+               </div>
+               <div type="gloria">
+                  <head>Glor. Patr.</head>
+                  <l>To the Father and the Son,</l>
+                  <l>and to the Holy Ghoſt, <hi>&amp;c.</hi>
+                  </l>
+               </div>
+               <div n="54" type="Psalm">
+                  <pb n="53" facs="tcp:180117:27"/>
+                  <opener>To the Tune of the Old <hi>CXXXVI. The ſame PSALM.</hi>
+                  </opener>
+                  <lg>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> O Praiſe the Lord, for he is good,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> for his Mercy en╌dur╌eth for e╌ver:</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> The God of Gods, and Lord of Lords,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> for his Mercy en╌dur╌eth for e╌ver;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Who Wondrous Works alone can do,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> for his Mercy endureth for ever;</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Who by his wiſdom made the Heav'ns,</l>
+                     <l>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> for his Mercy en╌dur╌eth for e╌ver.</l>
+                  </lg>
+                  <lg>
+                     <pb n="54" facs="tcp:180117:28"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>6</label> Who ſtretch'd the Earth above the Seas,</l>
+                     <l>for his Mercy endureth for ever.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>7</label> Who fill'd the Skies with ſhining Lights,</l>
+                     <l>for his Mercy endureth for ever.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>8</label> The glorious Sun that rules the day,</l>
+                     <l>for his Mercy endureth for ever.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>9</label> The Moon and Stars, that rule by Night,</l>
+                     <l>for his Mercy endureth for ever.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>10</label> All <hi>Egypt</hi>'s firſt-born Sons he ſlew,</l>
+                     <l>for his Mercy endureth for ever.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>11-12</label> And brought his People forth with might,</l>
+                     <l>for his Mercy endureth for ever.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>13-14</label> Through parted Waves, made <hi>Iſr'el</hi> paſs,</l>
+                     <l>for his Mercy endureth for ever.</l>
+                     <l>Where <hi>Pharaoh</hi> and his Hoſt were drown'd,</l>
+                     <l>for his Mercy endureth for ever.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>16</label> Then through the Deſart led our Tribes,</l>
+                     <l>for his Mercy endureth for ever.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>17-18</label> Where great and famous Kings he ſlew,</l>
+                     <l>for his Mercy endureth for ever.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>19</label> 
+                        <hi>Sehon</hi> who <hi>Ammon</hi>'s Scepter ſway'd,</l>
+                     <l>for his Mercy endureth for ever.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>20</label> Gigantick <hi>Ogg,</hi> proud <hi>Baſhan</hi>'s King,</l>
+                     <l>for his Mercy endureth for ever.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>21-22</label> And gave their Lands to his Elect,</l>
+                     <l>for his Mercy endureth for ever.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>23-24</label> Thought on and ſav'd us when diſtreſt,</l>
+                     <l>for his Mercy endureth for ever.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>25</label> With Food all Creatures he ſupplies,</l>
+                     <l>for his Mercy endureth for ever.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">verse </seg>26</label> Give Thanks to God, the God of Heav'n,</l>
+                     <l>for his Mercy endureth for ever.</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="measure">
+               <pb facs="tcp:180117:28"/>
+               <head>The uſual TUNES FOR PSALMS OF <hi>Common Meaſure.</hi>
+               </head>
+               <div n="44" type="Psalm">
+                  <pb facs="tcp:180117:29"/>
+                  <pb n="57" facs="tcp:180117:29"/>
+                  <head>Pſalm XLIV.</head>
+                  <opener>Windſor Tune.</opener>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> O Lord, our Fathers oft have told,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> in our at╌tentive Ears,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Thy wonders in their days perform'd,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and older times than theirs.</l>
+               </div>
+               <div n="27" type="Psalm">
+                  <head>Pſalm XXVII.</head>
+                  <opener>St. <hi>David</hi>'s <hi>Tune.</hi>
+                  </opener>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> WHom ſhould I fear, ſince God to me</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> is ſaving health and light;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Since ſtrongly he my Life ſupports,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> what can my Soul affright?</l>
+               </div>
+               <div n="4" type="Psalm">
+                  <pb n="58" facs="tcp:180117:30"/>
+                  <head>Pſalm IV.</head>
+                  <opener>Oxford Tune.</opener>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> O Lord, that art my righteous Judge,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> to my complaint give ear,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Thou ſtill redeem'ſt me from diſtreſs,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> have Mercy, Lord, and hear.</l>
+               </div>
+               <div n="5" type="Psalm">
+                  <head>Pſalm V.</head>
+                  <opener>Litchfield Tune.</opener>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> LOrd, hear the voice of my Complaint,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> accept my ſecret Prayer;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> To thee alone, my King, my God,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> will I for help repair.</l>
+               </div>
+               <div n="23" type="Psalm">
+                  <pb n="59" facs="tcp:180117:30"/>
+                  <head>Pſalm XXIII.</head>
+                  <opener>Canterbury Tune.</opener>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> THe Lord himſelf, the mighty Lord,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> vouchſafes to be my Guide;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> The Shepherd, by whoſe conſtant Care,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> my Wants are all ſupply'd.</l>
+               </div>
+               <div n="38" type="Psalm">
+                  <head>Pſalm XXXVIII.</head>
+                  <opener>Martyrs Tune.</opener>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> THy chaſt'ning wrath, O Lord, reſtrain,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> though I deſerve it all;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Nor let at once on me the ſtorm</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> of thy diſpleaſure fall.</l>
+               </div>
+               <div n="19" type="Psalm">
+                  <pb n="60" facs="tcp:180117:31"/>
+                  <head>Pſalm XIX.</head>
+                  <opener>York Tune.</opener>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> THe Heav'ns declare thy Glory, Lord,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> which that a╌lone can fill;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> The Firm╌a╌ment and Stars expreſs</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> their great Cre╌a╌tor's skill.</l>
+               </div>
+               <div n="16" type="Psalm">
+                  <head>Pſ. XVI.</head>
+                  <opener>St. Mary alias Hackney T.</opener>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> PRo╌tect me from my cru╌el Foes,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and ſhield me Lord, from harm,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Becauſe my truſt I ſtill re╌poſe</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> on thy Al╌migh╌ty Arm.</l>
+               </div>
+            </div>
+            <div type="measures">
+               <pb facs="tcp:180117:31"/>
+               <head>THE TUNES For PSALMS OF <hi>Particular Meaſures</hi> MOST Uſually SUNG.</head>
+               <div n="147" type="Psalm">
+                  <pb facs="tcp:180117:32"/>
+                  <pb n="63" facs="tcp:180117:32"/>
+                  <head>Pſal. CXLVII.</head>
+                  <opener>
+                     <hi>London</hi> New <hi>Tune.</hi>
+                  </opener>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> O praiſe the Lord with Hymns of Joy,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and Ce╌lebrate his Fame;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> for pleaſant, good, and comely 'tis,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> to praiſe his holy Name.</l>
+               </div>
+               <div n="25" type="Psalm">
+                  <head>Pſalm XXV.</head>
+                  <opener>Proper Tune.</opener>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> TO God, in whom I truſt,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> I lift my Heart and Voice:</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> O let me not be put to ſhame,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> nor let my Foes rejoice.</l>
+               </div>
+               <div n="119" type="Psalm">
+                  <pb n="64" facs="tcp:180117:33"/>
+                  <head>Pſalm CXIX.</head>
+                  <opener>Proper Tune.</opener>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> HOw bleſt are they who always keep,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> the pure and perfect way;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> who never from the ſacred Paths</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> of God's Commandments ſtray,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> How bleſt, who to his righteous Laws,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> have ſtill obedient been,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> And have with fervent humble zeal,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> his favour ſought to win.</l>
+               </div>
+               <div n="148" type="Psalm">
+                  <pb n="65" facs="tcp:180117:33"/>
+                  <head>Pſalm CXLVIII.</head>
+                  <opener>Proper Tune.</opener>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> YE boundleſs realms of Joy,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> exalt your Maker's Fame;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> His praiſe your Song employ,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> above the ſtarry Frame.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Your Voices raiſe,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Ye Cherubim and Seraphim,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> to ſing his Praiſe.</l>
+               </div>
+               <div n="113" type="Psalm">
+                  <pb n="66" facs="tcp:180117:34"/>
+                  <head>Pſalm CXIII.</head>
+                  <opener>Proper Tune.</opener>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> YE Saints and Servants of the Lord,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> the triumphs of his Name record,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> His ſacred Name for ever bleſs,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Where e'er the circling Sun diſplays;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> his riſing Beams, or ſetting Rays,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Due Praiſe to his great Name addreſs;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> God through the World extends his ſway,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> The Regions of eternal day,</l>
+                  <pb n="67" facs="tcp:180117:34"/>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> but ſhadows of his Glory are,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> with him whoſe Majeſty excells,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Who made the Heav'n, in which he dwells</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> let no created Pow'r compare.</l>
+               </div>
+               <div n="100" type="Psalm">
+                  <head>Pſalm C.</head>
+                  <opener>Proper Tune.</opener>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> WIth one conſent, let all the Earth</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> to God their cheerful Voices raiſe;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Glad homage pay, with awful Mirth,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> and ſing before him, Songs of Praiſe.</l>
+               </div>
+               <div n="92" type="Psalm">
+                  <pb n="68" facs="tcp:180117:35"/>
+                  <head>Pſalm XCII.</head>
+                  <opener>Proper Tune.</opener>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> HOw good and pleaſant muſt it be,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> to thank the Lord moſt high,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> And with repeated Hymns of Praiſe,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> His Name to magnifie.</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> With ev'ry Morning's early dawn</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> his goodneſs to relate,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> And of his conſtant Truth each night,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> the glad effects repeat.</l>
+               </div>
+               <div n="88" type="Psalm">
+                  <pb n="69" facs="tcp:180117:35"/>
+                  <head>Pſalm LXXXVIII.</head>
+                  <opener>To the Tune of the Old <hi>51</hi> Pſalm, and may be ſung to any Pſalm of this Meaſure.</opener>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> TO thee, my God and Saviour I</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> by day and night addreſs my Cry;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Vouchſafe my mournful Voice to hear;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> to my diſtreſs encline thine Ear;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> For Seas of Trouble me invade,</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> my Soul draws nigh to Death's cold ſhade;</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Like one whoſe ſtrength and hopes are fled</l>
+                  <l>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> they number me among the Dead.</l>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:180117:36"/>
+            <head>A <hi>TABLE</hi> of the Hymns, <hi>&amp;c.</hi> in this Suppliment.</head>
+            <list>
+               <item>
+                  <hi>TE Deum,</hi> &amp;c. Page 3</item>
+               <item>
+                  <hi>Veni Creator,</hi> firſt Metre Page 5</item>
+               <item>
+                  <hi>Veni Creator,</hi> ſecond Metre Page 6</item>
+               <item>
+                  <hi>Benedictus</hi> Page 8</item>
+               <item>
+                  <hi>Magnificat</hi> Page 9</item>
+               <item>
+                  <hi>Nunc Dimittis</hi> Page 11</item>
+               <item>
+                  <hi>The Creed</hi> Page 12</item>
+               <item>
+                  <hi>Lord's Prayer,</hi> firſt Metre Page 13</item>
+               <item>
+                  <hi>Lord's Prayer,</hi> ſecond Metre Page 14</item>
+               <item>
+                  <hi>Ten Commandments</hi> Page 15</item>
+            </list>
+            <list>
+               <head>Additional Hymns.</head>
+               <item>Song of the Angels at the Nativity of our Bleſſed Saviour. <hi>Page 18</hi>
+               </item>
+               <item>Eaſter day, <hi>firſt Hymn Page 19</hi>
+               </item>
+               <item>Second Hymn <hi>Page 19</hi>
+               </item>
+            </list>
+            <list>
+               <head>Hymns for the <hi>H. Communion.</hi>
+               </head>
+               <item>Firſt Hymn <hi>Page 20</hi>
+               </item>
+               <item>Second Hymn <hi>Page 21</hi>
+               </item>
+               <item>Hymn Third; being the Thankſgiving in the Church Communion Service <hi>Page 21</hi>
+               </item>
+            </list>
+            <pb facs="tcp:180117:36"/>
+            <list>
+               <head>Pſalms in particular Meaſures, with their proper Tunes.</head>
+               <item>To the Tune of the Old 50th Pſalm, Pſalm <hi>47. Page 23</hi>
+               </item>
+               <item>To the ſame Tune; Pſalm <hi>93. Page 24</hi>
+               </item>
+               <item>To the ſame Tune; Pſalm <hi>117. Page 25</hi>
+               </item>
+               <item>To the Tune of the Old <hi>100</hi> and 4th Pſalm; Pſalm <hi>74 Page 26</hi>
+               </item>
+               <item>To the ſame Tune; Pſalm <hi>117 Page 27</hi>
+               </item>
+               <item>To the Tune of the Old cxith Pſalm, the ſame Pſalm. <hi>Page 28</hi>
+               </item>
+               <item>Pſalm <hi>131.</hi> To the ſame Tune. <hi>Page 30</hi>
+               </item>
+               <item>To the Tune of the Old cxiith. The ſame Pſalm. <hi>Page 31</hi>
+               </item>
+               <item>To the ſame Tune; Pſalm <hi>134. Page 32</hi>
+               </item>
+               <item>To the Tune of the Old <hi>cxx.</hi> the ſame Pſalm, <hi>Page 33</hi>
+               </item>
+               <item>To the ſame Tune; Pſalm <hi>cxxxi. Page 34</hi>
+               </item>
+               <item>To the Tune of the Old <hi>cxxi.</hi> the ſame Pſalm. <hi>Page 35</hi>
+               </item>
+               <item>To the Tune of the Old <hi>cxxix.</hi> the ſame Pſalm, <hi>Page 36</hi>
+               </item>
+               <item>To the Tune of the Old <hi>cxxii.</hi> the ſame Pſalm, <hi>Page 37</hi>
+               </item>
+               <item>To the ſame Tune, Pſalm <hi>133. Page 38</hi>
+               </item>
+               <item>To the Tune of the Old <hi>cxxiv.</hi> the ſame Pſalm. <hi>Page 39</hi>
+               </item>
+               <item>To the ſame Tune, Pſalm <hi>54. Page 41</hi>
+               </item>
+               <pb facs="tcp:180117:37"/>
+               <item>To the Tune of the Old <hi>cxxv. firſt. Metre;</hi> the ſame Pſalm. <hi>Page 42</hi>
+               </item>
+               <item>To the <hi>ſecond Metre</hi> of the Old <hi>cxxv</hi> the ſame Pſalm. <hi>Page 43</hi>
+               </item>
+               <item>To the ſame Tune; Pſalm <hi>53. Page 44</hi>
+               </item>
+               <item>To the Tune of the Old <hi>cxxvi.</hi> the ſame Pſalm. <hi>Page 45</hi>
+               </item>
+               <item>To the ſame Tune; Pſalm <hi>114 Page 47</hi>
+               </item>
+               <item>To the Tune of the Old <hi>cxxvii.</hi> the ſame Pſalm. <hi>Page 49</hi>
+               </item>
+               <item>To the Tune of the Old <hi>cxxx.</hi> the ſame Pſalm. <hi>Page 52</hi>
+               </item>
+               <item>To the Tune of the Old <hi>cxxxvi</hi> the ſame Pſalm. <hi>Page 53</hi>
+               </item>
+               <item>The uſual Tunes for Pſalms of Com<g ref="char:EOLhyphen"/>mon Meaſure, begin at <hi>Page 57</hi>
+               </item>
+               <item>The Tunes for Pſalms of Particular Meaſures, moſt uſually Sung, begin <hi>Page 63</hi>
+               </item>
+            </list>
+            <pb facs="tcp:180117:37"/>
+            <pb facs="tcp:180117:38"/>
+            <pb facs="tcp:180117:38"/>
+         </div>
+      </back>
+   </text>
+</TEI>
